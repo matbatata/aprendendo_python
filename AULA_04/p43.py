@@ -2,8 +2,9 @@
 a = int(input("digite um numero: " ))
 b = int(input("digite um numero: " ))
 
-# criando somas 
+# criando contas 
 soma = a+b 
+media = soma/2 
 
-# pritar resultados
-print(soma)
+# print do resultado
+print(media)
